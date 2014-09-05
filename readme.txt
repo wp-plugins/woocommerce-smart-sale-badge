@@ -3,7 +3,7 @@ Contributors: hlashbrooke
 Donate link: http://www.hughlashbrooke.com/donate
 Tags: woocommerce, products, sale, badge
 Requires at least: 3.0
-Tested up to: 3.8
+Tested up to: 4.0
 Stable tag: 1.0
 
 Enhances the WooCommerce sale badge by displaying the total saving a customer will receive
